@@ -98,3 +98,9 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## link to deployed site 
+
+(https://007jag.github.io/password-generator/)
+
+
